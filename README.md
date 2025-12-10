@@ -21,9 +21,6 @@ Collection of useful PowerShell scripts for various IT administration tasks.
 ### [Intune-DeviceOS-Report](https://github.com/roalhelm/Intune-DeviceOS-Report)
 PowerShell tool for Intune Device OS Reporting.
 
-## GitHub Stats
-![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=roalhelm&show_icons=true&theme=dark)
-
 ## Contact
 - LinkedIn: [Ronny Alhelm](https://www.linkedin.com/in/ronny-alhelm-3aa28910b)
 
