@@ -1,15 +1,15 @@
-# Hi there, I'm Ronny Alhelm 👋
+# Ronny Alhelm
 
-## 🚀 About Me
+## About Me
 IT Specialist at **SPIRIT/21** from Bautzen, focused on Microsoft technologies, particularly Intune, Azure AD, and PowerShell automation.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Main Focus:** PowerShell, Microsoft Intune, Azure AD (Entra ID), Microsoft Defender
 - **Specialization:** Windows Device Management, Endpoint Security, Automation
 
-## 📌 Pinned Projects
+## Featured Projects
 
-### [CheckMicrosoftEndpoints](https://github.com/roalhelm/CheckMicrosoftEndpoints) ⭐ 2
+### [CheckMicrosoftEndpoints](https://github.com/roalhelm/CheckMicrosoftEndpoints)
 Script to check Microsoft Endpoints needed for Intune, Defender, Windows Update for Business, Autopatch, Entra, and more.
 
 ### [DevicetoAADGroupGUI](https://github.com/roalhelm/DevicetoAADGroupGUI)
@@ -21,9 +21,13 @@ Collection of useful PowerShell scripts for various IT administration tasks.
 ### [Intune-DeviceOS-Report](https://github.com/roalhelm/Intune-DeviceOS-Report)
 PowerShell tool for Intune Device OS Reporting.
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=roalhelm&show_icons=true&theme=dark)
 
+## Contact
+- LinkedIn: [Ronny Alhelm](https://www.linkedin.com/in/ronny-alhelm-3aa28910b)
+- Company: SPIRIT/21
+- Location: Bautzen, Germany
 
 ---
-💡 *Always looking for new ways to automate and optimize IT processes!*
+*Focused on automating and optimizing IT processes.*
