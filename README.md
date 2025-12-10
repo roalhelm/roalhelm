@@ -1,7 +1,7 @@
 # Ronny Alhelm
 
 ## About Me
-IT Specialist at **SPIRIT/21** from Bautzen, focused on Microsoft technologies, particularly Intune, Azure AD, and PowerShell automation.
+IT Specialist from Germany, focused on Microsoft technologies, particularly Intune, Azure AD, and PowerShell automation.
 
 ## Technologies & Tools
 - **Main Focus:** PowerShell, Microsoft Intune, Azure AD (Entra ID), Microsoft Defender
@@ -26,8 +26,6 @@ PowerShell tool for Intune Device OS Reporting.
 
 ## Contact
 - LinkedIn: [Ronny Alhelm](https://www.linkedin.com/in/ronny-alhelm-3aa28910b)
-- Company: SPIRIT/21
-- Location: Bautzen, Germany
 
 ---
 *Focused on automating and optimizing IT processes.*
