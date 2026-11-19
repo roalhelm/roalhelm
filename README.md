@@ -9,7 +9,7 @@ IT Specialist from Germany, focused on Microsoft technologies, particularly Intu
 
 ## Public Repositories
 
-### [WindowsAutopatchFix](https://github.com/roalhelm/WindowsAutopatchFix) ⭐ 8
+### [WindowsAutopatchFix](https://github.com/roalhelm/WindowsAutopatchFix) ⭐ 13
 PowerShell scripts to fix common Windows Autopatch issues and enrollment problems.
 
 ### [Intune-DeviceOS-Report](https://github.com/roalhelm/Intune-DeviceOS-Report)
@@ -24,7 +24,7 @@ Collection of useful PowerShell scripts for various IT administration tasks.
 ### [DevicetoAADGroupGUI](https://github.com/roalhelm/DevicetoAADGroupGUI)
 PowerShell script with GUI to add clients to Azure AD Groups.
 
-### [CheckMicrosoftEndpoints](https://github.com/roalhelm/CheckMicrosoftEndpoints) ⭐ 2
+### [CheckMicrosoftEndpoints](https://github.com/roalhelm/CheckMicrosoftEndpoints) ⭐ 4
 Script to check Microsoft Endpoints needed for Intune, Defender, Windows Update for Business, Autopatch, Entra, and more.
 
 ### [GetMacAdressIntune](https://github.com/roalhelm/GetMacAdressIntune)
